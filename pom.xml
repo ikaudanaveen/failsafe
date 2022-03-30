@@ -8,8 +8,8 @@
     <artifactId>mb2g-testing</artifactId>
     <version>1.0-SNAPSHOT</version>
     <scm>
-        <developerConnection>scm:git:https://github.com/springframeworkguru/mb2g-release-plugin.git</developerConnection>
-        <url>https://github.com/springframeworkguru/mb2g-release-plugin</url>
+        <developerConnection>scm:git:https://github.com/ikaudanaveen/failsafe.git</developerConnection>
+        <url>https://github.com/ikaudanaveen/failsafe.git</url>
         <tag>HEAD</tag>
     </scm>
     <properties>
@@ -64,13 +64,10 @@
                 <artifactId>maven-site-plugin</artifactId>
                 <version>3.7.1</version>
             </plugin>
-           
+
         </plugins>
     </build>
-    <scm>
-        <connection>scm:svn:http://somerepository.com/svn_repo/trunk</connection>
-        <developerConnection>scm:svn:https://somerepository.com/svn_repo/trunk</developerConnection>
-        <url>http://somerepository.com/view.cgi</url>
-    </scm>
+
+
 
 </project>
